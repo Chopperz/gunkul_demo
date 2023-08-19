@@ -27,7 +27,7 @@ It's a demo project for testing. It works in MVC pattern and integrates with Get
 
 #### Environment Security
 
-This project uses [flutter_dotenv](https://pub.dev/packages/flutter_dotenv) for protecting access to confidential API code. If you want to play around with the project, please bring the .env file attached to the reply email before testing.
+This project uses [flutter_dotenv](https://pub.dev/packages/flutter_dotenv) for protecting access to confidential API code. If you want to play around with the project, please complete the steps in the example_env file before you start testing..
 
 ## Run Project
 
