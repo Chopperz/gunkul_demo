@@ -70,7 +70,7 @@ until it's done. it can run the project right away.
 
 ## Screenshots
 
-![App Screenshot](screenshot/login_screenshot.png))
+![App Screenshot](screenshot/login_screenshot.png)| width=100)
 
 ![App Screenshot](screenshot/home_listview_light_screenshot.png))
 
